@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">☁️ Cloud & Devops Engineer |  💻Open Source Contributor</h2>
+<h2 align="left">☁️ Cloud & Devops Engineer | 💻Open Source Contributor</h2>
 
 ###
 
