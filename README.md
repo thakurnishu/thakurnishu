@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Nishant Singh</h1>
 
-###
-
 <br clear="both">
 
 <div align="center">
@@ -95,17 +93,25 @@
 
 ###
 
-<h3 align="left">Connect With Me :</h3>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/thakurnishu" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/thakurnishant5102003" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/NISHANT_1020" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://hashnode.com/@Nishu0510" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/contact-nishant-singh" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@thakurnishant5102003" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/contact-nishant-singh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/NISHANT_1020" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="50" alt="twitter logo"  />
-  </a>
-</div>
-
-###
