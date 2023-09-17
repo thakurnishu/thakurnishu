@@ -20,10 +20,6 @@
 
 ###
 
-<h4 align="left">DevOps Tools :</h4>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
   <img width="20" />
@@ -31,6 +27,10 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
 </div>
+
+###
+
+<h4 align="left">DevOps Tools :</h4>
 
 ###
 
@@ -83,7 +83,6 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="50" alt="centos logo"  />
 </div>
-
 
 ## Connect with me  
 <div align="center">
