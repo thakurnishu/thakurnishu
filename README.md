@@ -84,7 +84,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="50" alt="centos logo"  />
 </div>
 
-###
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/thakurnishu" target="_blank">
@@ -106,7 +106,6 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-###
 
 <h3 align="left">📊 Stats :</h3>
 
